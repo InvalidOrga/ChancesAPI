@@ -1,6 +1,7 @@
 {
   "name": "austriannoah/chancesapi",
   "description": "A Simple Chances API forked by RexZetronYT23",
+  "version": "1.0-alphatier",
   "type": "library",
   "autoload": {
     "psr-4": {
