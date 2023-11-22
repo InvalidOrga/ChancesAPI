@@ -18,5 +18,8 @@
   "minimum-stability": "dev",
   "require": {
 
+  },
+  "provide": {
+    "exc/todo": ">=@dev"
   }
 }
