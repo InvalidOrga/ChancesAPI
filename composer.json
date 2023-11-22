@@ -1,0 +1,20 @@
+{
+  "name": "austriannoah/chancesapi",
+  "description": "A Simple Chances API forked by RexZetronYT23",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "AustrianNoah\\ChancesAPI\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "AustrianNoah"
+
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+
+  }
+}
