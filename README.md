@@ -1,7 +1,10 @@
-# Du Bist Gay
+# ChancesAPI in PHP
 
+# Usage
 ```php
-    public function onEnable(): void {
-        $this->getLogger()->info("Sei ned Gay");
-    }
+    Chances::chance("fifty-fifty", function () {
+        // use this for success
+    }, function () {
+        // use this for failure
+});
 ```
