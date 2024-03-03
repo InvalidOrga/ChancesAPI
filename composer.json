@@ -3,6 +3,7 @@
   "description": "A Simple Chances API forked by RexZetronYT23 and will edited and maintained by AustrianNoah jebote",
   "version": "v1.8.7-alphatier",
   "type": "library",
+  "website": "https://www.ausizone.de"
   "autoload": {
     "psr-4": {
       "AustrianNoah\\ChancesAPI\\": "src/"
