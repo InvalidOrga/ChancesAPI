@@ -1,7 +1,7 @@
 {
   "name": "austriannoah/chancesapi",
   "description": "A Simple Chances API forked by RexZetronYT23 and will edited and maintained by AustrianNoah jebote",
-  "version": "1.0-alphatier",
+  "version": "1.0",
   "type": "library",
   "autoload": {
     "psr-4": {
