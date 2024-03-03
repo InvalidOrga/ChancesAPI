@@ -5,6 +5,16 @@
 $ composer require austriannoah/chancesapi
 ```
 
+or just adding this to your ``composer.json``
+
+```json
+{
+    "require": {
+        "austriannoah/chancesapi": "dev-main"
+    }
+}
+```
+
 # Usage
 ```php
     Chances::chance("fifty-fifty", function () {
