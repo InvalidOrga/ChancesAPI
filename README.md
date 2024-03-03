@@ -25,5 +25,5 @@ or just adding this to your ``composer.json``
 ```
 
 # Support
-
-Dsicord
+- [ ] Discord
+- [ ] Forum
