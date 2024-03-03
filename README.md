@@ -1,7 +1,9 @@
 # ChancesAPI in PHP
 
 ## Installing
-composer require "austriannoah/chancesapi"
+```shell
+$ composer require austriannoah/chancesapi
+```
 
 # Usage
 ```php
