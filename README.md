@@ -23,3 +23,7 @@ or just adding this to your ``composer.json``
         // use this for failure
 });
 ```
+
+# Support
+
+Dsicord
